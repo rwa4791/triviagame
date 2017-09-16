@@ -1,0 +1,12 @@
+body{
+	background-image: url('../assets/images/jl.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	background: white;
+	height: 100%;
+	width: 500px;
+	position:center;
+}

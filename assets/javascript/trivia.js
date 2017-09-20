@@ -56,11 +56,7 @@ $("#restart").on("click", function() {
  });
 
 
-$("#submit").on("click", function() {
 
-
-
-});
 });
 
 
